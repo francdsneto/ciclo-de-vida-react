@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# React Básico - Ciclo de Vida - Sandtanders Coders 2024
+> Status: Concluído
+
+Projeto gerado no acompanhamento da Aula de React Básico - Ciclo de vida do Curso da ADA - Santanders Coders 2024
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
